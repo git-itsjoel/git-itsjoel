@@ -28,13 +28,13 @@
 <!-- png icons from https://iconscout.com/ --> 
 <a href="https://youtube.com/channel/UC3iabIBxfeO9bN2MExB13kA" class="padded"><img align="left" alt="Joel Boban" width="28px" src="./res/youtube.png" /></a> 
 <a href="https://telegram.dog/Joe_noob" class="padded"><img align="left" alt="Joel" width="28px" src="./res/telegram.png" /></a> 
-<a href="https://" class="padded"><img align="left" alt="joel_boban14" width="28px" src="./res/insta.png" /></a> 
 </br>
+<a href="https://www.instagram.com/joel_boban14" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Joel Boban-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ---
 
 
 
-## Kanged from xditya 🙈
+- Kanged from xditya 🙈
 
 ---
