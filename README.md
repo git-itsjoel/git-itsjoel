@@ -26,7 +26,7 @@
 ## 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ --> 
-<a href="https://youtube.com/" class="padded"><img align="left" alt="Joel Boban" width="28px" src="./res/youtube.png" /></a> 
+<a href="https://youtube.com/channel/UC3iabIBxfeO9bN2MExB13kA" class="padded"><img align="left" alt="Joel Boban" width="28px" src="./res/youtube.png" /></a> 
 <a href="https://telegram.dog/Joe_noob" class="padded"><img align="left" alt="Joel" width="28px" src="./res/telegram.png" /></a> 
 <a href="https://" class="padded"><img align="left" alt="joel_boban14" width="28px" src="./res/instagram.png" /></a> 
 </br>
