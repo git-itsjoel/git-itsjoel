@@ -35,6 +35,6 @@
 
 
 
-## Kanged from xdiya 🙈
+## Kanged from xditya 🙈
 
 ---
