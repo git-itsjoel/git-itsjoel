@@ -2,7 +2,7 @@
    
 - 🤭 I’m Joel a 14 year old kid.
 - 🙂 Focusing on studies as well as learning python
-- ⚡ Am a noob so I don't knoCoding
+- ⚡ Am a noob so I don't know Coding
 ---
 
 ## 🛠️ Languages and tools
@@ -36,3 +36,5 @@
 
 
 ## Kanged from xdiya 🙈
+
+---
