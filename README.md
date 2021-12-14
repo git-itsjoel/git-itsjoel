@@ -27,10 +27,9 @@
 
 <!-- png icons from https://iconscout.com/ --> 
 <a href="https://youtube.com/channel/UC3iabIBxfeO9bN2MExB13kA" class="padded"><img align="left" alt="Joel Boban" width="28px" src="./res/youtube.png" /></a> 
-<a href="https://telegram.dog/Joe_noob" class="padded"><img align="left" alt="Joel" width="28px" src="./res/telegram.png" /></a> 
-</br>
+<a href="https://t.me/joe_noob"><img alt="Telegram" src="https://img.shields.io/badge/Joe Noob-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/joel_boban14" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Joel Boban-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
+</br>
 ---
 
 
