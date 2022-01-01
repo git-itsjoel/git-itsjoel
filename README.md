@@ -27,7 +27,7 @@
 
 <!-- png icons from https://iconscout.com/ --> 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC3iabIBxfeO9bN2MExB13kA?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://youtube.com/channel/UC3iabIBxfeO9bN2MExB13kA)
-<a href="https://t.me/joe_noob"><img alt="Telegram" src="https://img.shields.io/badge/Joe Noob-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/joel_noob"><img alt="Telegram" src="https://img.shields.io/badge/Joel Boban-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/joel_boban14" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Joel Boban-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://JoelBobanOffline.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-2CA5E0?style=for-the-badge&logo=website&logoColor=white"/></a>
 
