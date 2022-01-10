@@ -26,6 +26,7 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoelBobanOffline&theme=nightowl&cache_seconds=3200" /></p>
 ---
+
 ## 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ --> 
