@@ -23,8 +23,6 @@
 [![Metrics](https://metrics.lecoq.io/JoelBobanOffline?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Joe_noob)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoelBobanOffline&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoelBobanOffline&theme=nightowl&cache_seconds=3200" /></p>
-
 ## 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ --> 
