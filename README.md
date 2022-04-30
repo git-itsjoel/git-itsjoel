@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Joel](https://t.me/joe_noob) | [![Profile views](https://komarev.com/ghpvc/?username=JoelBobanOffline&label=Profile%20views)](https://github.com/JoelBobanOffline)
    
-- 🤭 I’m Joel a 14 year old kid.
+- 🤭 I’m Joel a 15 year old kid.
 - 🙂 Focusing on studies as well as learning python
 - ⚡ Am a noob so I don't know Coding
 
